@@ -1,0 +1,19 @@
+body{
+
+    background-color: rgb(141, 31, 168);
+
+}
+
+.cabecalho {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.cabecalho-imagem{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    padding: 20px;
+    
+}
