@@ -15,5 +15,11 @@ body{
     height: 200px;
     border-radius: 50%;
     padding: 20px;
-    
+
+}
+.cabecalho-menu-listaitem{
+
+    display: inline;
+    text-transform: uppercase;
+    margin: 30px;
 }
